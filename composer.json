@@ -1,0 +1,12 @@
+{
+  "name": "makraz/api-pack",
+  "type": "api-pack",
+  "license": "MIT",
+  "description": "A Api pack for Symfony projects",
+  "require": {
+    "api-platform/api-pack": "^1.4",
+    "lexik/jwt-authentication-bundle": "^3.1",
+    "tilleuls/forgot-password-bundle": "^1.6",
+    "gesdinet/jwt-refresh-token-bundle": "^1.4"
+  }
+}
